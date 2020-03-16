@@ -39,6 +39,7 @@ public class MadLib {
         switch (name) {
             case "Jack":
                 System.out.println("It is a pirate name! :) ");
+
                 break;
             case "Rex":
                 System.out.println("It is a very common name!");

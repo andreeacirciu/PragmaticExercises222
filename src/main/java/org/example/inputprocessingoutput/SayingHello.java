@@ -15,6 +15,7 @@ public class SayingHello {
         System.out.println("What's your name?");
         Scanner scanner = new Scanner(System.in);
         String yourName = scanner.nextLine();
+
         switch (yourName) {
             case "Dan":
                 System.out.println("Hello, Dan, nice to meet you!");

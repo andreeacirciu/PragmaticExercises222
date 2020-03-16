@@ -66,6 +66,7 @@ public class SimpleMath {
             System.out.println("You introduced a negative number! Try again!");
             secondNumber = scanner.nextInt();
         }
+
         Sum sum= new Sum();
         Subtraction subtraction = new Subtraction();
         Multiplication multiplication = new Multiplication();

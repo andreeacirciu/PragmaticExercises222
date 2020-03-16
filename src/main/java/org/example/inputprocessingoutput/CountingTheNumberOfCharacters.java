@@ -15,6 +15,7 @@ public class CountingTheNumberOfCharacters {
         Scanner scanner = new Scanner(System.in);
         String inputString = scanner.nextLine();
 
+
         while(inputString.length() == 0)
         {
             if(inputString.length() == 0)

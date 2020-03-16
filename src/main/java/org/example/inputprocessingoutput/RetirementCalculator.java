@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class RetirementCalculator {
     public static void main(String[] args) {
+
          //constraints + challenge
         System.out.println("What is your current age?");
         Scanner scanner =new Scanner(System.in);

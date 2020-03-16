@@ -10,6 +10,7 @@ public class PrintingQuotes {
         System.out.println("Wht is the quote?");
         Scanner scanner = new Scanner(System.in);
         String inputString = scanner.nextLine();
+        
         System.out.println("Who said it?");
         String inputString2 =scanner.nextLine();
 
