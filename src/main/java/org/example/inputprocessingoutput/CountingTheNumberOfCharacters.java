@@ -18,11 +18,8 @@ public class CountingTheNumberOfCharacters {
 
         while(inputString.length() == 0)
         {
-            if(inputString.length() == 0)
-            {
-                System.out.println("Enter a string!");
-            }
-                inputString = scanner.nextLine();
+            System.out.println("Enter a string!");
+            inputString = scanner.nextLine();
         }
         System.out.println(inputString + " has " + inputString.length() + " characters.");
 
